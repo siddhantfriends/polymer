@@ -1,0 +1,23 @@
+{
+  "name": "Getting started with Polymer 1.0",
+  "authors": [
+    "Siddhant Baviskar <siddhant.baviskar@northumbria.ac.uk>"
+  ],
+  "description": "This is a quick introduction to Polymer 1.0.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "StartedWithPolymer",
+    "polymer",
+    "Polymer"
+  ],
+  "license": "GPL",
+  "homepage": "homepageURL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
