@@ -12,7 +12,7 @@
     "Polymer"
   ],
   "license": "GPL",
-  "homepage": "homepageURL",
+  "homepage": "https://github.com/siddhantfriends/polymer",
   "ignore": [
     "**/.*",
     "node_modules",
